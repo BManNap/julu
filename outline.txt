@@ -1,51 +1,18 @@
 skip to scene #
 
 scene 1
--Flavius
-Hence! Home, you idle creatures get you home:
-Is this a holiday? What, know you not,
-Being mechanical, you ought not walk
-Upon a laboring day without the sign
-Of your profession? Speak, what trade art thou?
--question: what is Flavius asking? answer: what is your trade
-
--Marullus
-Where is thy leather apron and thy rule?
-What dost thou with thy best apparel on? —
-[To Cobbler] You, sir, what trade are you?
--Cobbler
-Truly, sir, in respect of a fine workman, I am but,
-as you would say, a cobbler.
--question:What is a cobbler?answer:mender and maker of shoes
-
-Marullus
-But what trade art thou? Answer me directly.
--Cobbler
-A trade, sir, that, I hope, I may use with a safe
-conscience; which is, indeed, sir, a mender of bad soles.
--Marullus
-What trade, thou knave? Thou naughty knave, what trade?
--Cobbler
-Nay, I beseech you, sir, be not out with me: yet,
-if you be out, sir, I can mend you.
--Marullus
-What mean’st thou by that? Mend me, thou saucy fellow!
--Cobbler
-Why, sir, cobble you.
--Flavius
-Thou art a cobbler, art thou?
--Cobbler
-Truly, sir, all that I live by is with the awl.  I meddle
-with no tradesman's matters, nor women’s matters, but
-with all. I am, indeed, sir, a surgeon to old shoes; when
-they are in great danger I recover them. As proper men
-as ever trod upon neat's leather have gone upon my
-handiwork.
--Flavius
-But wherefore art not in thy shop today?
-Why dost thou lead these men about the streets?
--Cobbler
-Truly, sir, to wear out their shoes, to get myself
-into more work. But, indeed, sir, we make holiday, to see
-Caesar and to rejoice in his triumph.
--question:Why are they out in the streets?answer:To celabrate Caesar
+-question 1:what is Flavius asking? 
+answer: what is your trade 
+line number:8
+-question 2:What is a cobbler?
+answer:mender and maker of shoes
+line num:17
+question 3:Why are they out in the streets?
+answer:To celabrate Caesar
+line num:49
+question 4:What is Marcullus trying to say here?
+answer:he is asking why they cheer for caesar after he killed Pompey
+line num:76
+question 5:What are the men trying to do here?
+Answer: take down Caesars images and get the men off the street
+line num:102
