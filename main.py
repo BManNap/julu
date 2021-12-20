@@ -1,6 +1,3 @@
-from typing import Collection
-
-
 def skip(ta):
     while ta == 1:
         print("what scene would you like to skip to? 0:Scene 1, 1:Scene 2, 2:Scene 3, 3:Scene 4")
@@ -46,6 +43,7 @@ def ITa(limit):
             ta = int(input(": "))
         except:
             print("please input a whole number!")
+    print("\n\n\n\n")        
     return ta
 
 def rTl(loc, start, end, qLine):
