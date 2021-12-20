@@ -16,3 +16,8 @@ line num:76
 question 5:What are the men trying to do here?
 Answer: take down Caesars images and get the men off the street
 line num:102
+
+scene 2 Part A
+-question 1:
+answer:
+line num:

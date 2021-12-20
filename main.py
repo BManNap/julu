@@ -1,4 +1,7 @@
-def skip():
+from typing import Collection
+
+
+def skip(ta):
     while ta == 1:
         print("what scene would you like to skip to? 0:Scene 1, 1:Scene 2, 2:Scene 3, 3:Scene 4")
         ta = ITa(4)
@@ -8,12 +11,27 @@ def skip():
         exit
 
 def scene1():
+    global cool
     while boolS1:
-        exit
-        pass
+        rTl("S1.txt", 0, 8 ,8)
+        ta = ITa(3)
+        if ta == 0:
+            cool["Scene 1 question 1"] = "Correct"
+        else:
+            cool["Scene 1 question 1"] = "Wrong"
+        
+        rTl("S1.txt", 9, 17, 17)
+        ta = ITa(3)
+        if ta == 2:
+            cool["Scene 1 question 2"] = "Correct"
+        else:
+            cool["Scene 1 question 2"] = "Wrong"
+        debug()
 
 
-
+def debug():
+    print(cool)
+    input("enter debug 050")
 
 def main():
     scene1()
@@ -30,10 +48,20 @@ def ITa(limit):
             print("please input a whole number!")
     return ta
 
+def rTl(loc, start, end, qLine):
+    with open(loc, "r") as r:
+        page = r.readlines()
+    for x in range(start, end):
+        print(page[x])
+        pass
+    print(page[qLine])
+
 if __name__=='__main__':
+    global cool
+    cool = {}
     print("would you like to skip to a scene? 1:yes 0:no\n")
     ta = ITa(1)
-    skip()
+    skip(ta)
     boolS1 = True
     boolS2 = True
     boolS3 = True

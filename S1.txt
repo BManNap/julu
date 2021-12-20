@@ -5,7 +5,7 @@ Is this a holiday? What, know you not,
 Being mechanical, you ought not walk
 Upon a laboring day without the sign
 Of your profession? Speak, what trade art thou?
--question: what is Flavius asking? answer: what is your trade
+-question: what is Flavius asking?0:What is your trade? 1:Do you trade art? 2:What labor is being done here? 3:Do you walk?
 
 -Marullus
 Where is thy leather apron and thy rule?
@@ -14,7 +14,7 @@ What dost thou with thy best apparel on? —
 -Cobbler
 Truly, sir, in respect of a fine workman, I am but,
 as you would say, a cobbler.
--question:What is a cobbler?answer:mender and maker of shoes
+-question:What is a cobbler?0:stone worker 1:Weird person 2:mender and maker of shoes
 
 Marullus
 But what trade art thou? Answer me directly.
