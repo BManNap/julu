@@ -16,7 +16,7 @@ def answers(ta, correctNum, sceneNum, questinNum):
 
 def ITa(limit):
     ta = 66
-    while ta > limit+1 or ta < -1:
+    while ta > limit+1 or ta < 0:
         print("please input a number listed")
         try:
             ta = int(input(": "))
@@ -44,11 +44,22 @@ def main():
 
 def scene1():
     while boolS1:
-        rTl("S1.txt", 0, 8 ,8)
+        loc = "S1.txt"
+        rTl(loc, 0, 8)
         answers(ITa(3), 0, 1, 1)
         
-        rTl("S1.txt", 9, 17, 17)
+        rTl(loc, 9, 17)
         answers(ITa(3), 2, 1, 2)
+
+        rTl(loc, 18, 49)
+        answers(ITa(2), 1, 1, 3)
+
+        rTl(loc, 50, 76)
+        answers(ITa(3), 3, 1, 4)
+        
+        rTl(loc, 77, 102)
+        answers(ITa(3), 1, 1, 5)
+
 
 
 

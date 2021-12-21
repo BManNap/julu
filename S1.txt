@@ -46,7 +46,7 @@ Why dost thou lead these men about the streets?
 Truly, sir, to wear out their shoes, to get myself
 into more work. But, indeed, sir, we make holiday, to see
 Caesar and to rejoice in his triumph.
--question:Why are they out in the streets?answer:To celabrate Caesar
+-question:Why are they out in the streets?0:To die 1:To celabrate Caesar 2:have fun
 
 -Marullus
 Wherefore rejoice? What conquest brings he home?
@@ -73,7 +73,7 @@ Be gone!
 Run to your houses, fall upon your knees,
 Pray to the gods to intermit the plague
 That needs must light on this ingratitude.
--question:What is Marcullus trying to say here?answer:he is asking why they cheer for caesar after he killed Pompey
+-question:What is Marcullus trying to say here?0:Why not cheer for Pmpey 1:Why are your knee 2:Why do you wear your worst 3:he is asking why they cheer for caesar after he killed Pompey
 
 -Flavius
 Go, go, good countrymen, and for this fault,
@@ -99,5 +99,5 @@ These growing feathers plucked from Caesar's wing
 Will make him fly an ordinary pitch,
 Who else would soar above the view of men
 And keep us all in servile fearfulness.
-question:What are the men trying to do here?Answer: take down Caesars images and get the men off the street
+question:What are the men trying to do here?0:Cut their tongues out 1:Take down Caesars images and get the men off the street 2:Hanging Caesars images
 [Exit.]
