@@ -56,11 +56,13 @@ def scene1():
 
         rTl(loc, 50, 76)
         answers(ITa(3), 3, 1, 4)
-        
+
         rTl(loc, 77, 102)
         answers(ITa(3), 1, 1, 5)
 
-
+def scene2():
+    while boolS2:
+        pass
 
 
 if __name__=='__main__':
