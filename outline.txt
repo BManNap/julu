@@ -39,7 +39,7 @@ answer:God (0)
 line num:182
 
 -Question 4:What is Cassius trying to convince Brutus of?
-answer:3:Caesar should be replaced by you
+answer:3:Caesar should be replaced by you (4)
 -Question 5:Is Caesar a strong swimmer?
 answer:0:No
 
@@ -90,3 +90,32 @@ question 9:What does Cassius call Brutus when talking to him self?
 answer:(1)
 num of answers:(4)
 line num:450
+
+########################################################
+Scene 3 ~11 questions pls
+
+question 1
+line 19 
+num answers 3
+answer 2
+
+question 2 line 48
+num answrs 2
+answer 1
+
+question 3
+line 83
+num answer 3
+answer 2
+
+question 4
+line 177
+num of answers 3
+answer 2
+
+question 5,6,7
+lines 223, 224, 225
+num of answers 2
+answers: 0
+
+#~177
