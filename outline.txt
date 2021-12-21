@@ -20,8 +20,73 @@ question 5:What are the men trying to do here?
 Answer: take down Caesars images and get the men off the street
 line num:102
 
-#39, 181, 182, 218, 219
+
+
+
+###################################
 scene 2 Part A
--question 1:
-answer:
-line num:
+#39, 181, 182, 218, 219
+-question 1:What is the Ides of March?
+answer:15th of March (1)
+line num:39
+
+-question 2:What did Caesar try and do but then yelled for help?
+asnwer:He was having toruble swimming in the storm (3)
+line num:181
+
+-question 3:What does Cassius say Caesar has become?
+answer:God (0)
+line num:182
+
+-Question 4:What is Cassius trying to convince Brutus of?
+answer:3:Caesar should be replaced by you
+-Question 5:Is Caesar a strong swimmer?
+answer:0:No
+
+##############################################33
+part b 
+#267,268, 273, 353, 376, 386, 398, 413, 450
+
+-Question 1:Why does Caesar think fat men aren't dangerous?
+answer:(1) 
+num of answers:(3)
+line num:267
+
+-Question 2:What is Caesar saying they are hungry for?
+answer:(1)
+num of answers:3
+line num:268
+
+-Question 3:Who is Antony telling Caesar not to fear?
+answer:(2)
+num of answers(3)
+line num: 273
+Question 4:What is the falling sickness?
+answer:(0)
+num of answers:(3)
+line num:353
+
+question 5:What did Caesar ask for?
+answer:(2)
+num of answer:(3)
+line num:386
+
+question 6:Why was Caesar sad?
+answer:(1)
+num of answers:(3)
+line num:386
+
+question 7:What does Casca mean "by put to silence"?
+answer:(0)
+num of answer:(3)
+line num:398
+
+question 8:What did Cassius ask of Casca?
+answer:(0)
+num of answer:2
+line num:413
+
+question 9:What does Cassius call Brutus when talking to him self?
+answer:(1)
+num of answers:(4)
+line num:450

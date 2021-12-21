@@ -178,7 +178,7 @@ As a sick girl. Ye gods, it doth amaze me
 A man of such a feeble temper should
 So get the start of the majestic world
 And bear the palm alone.
--Question:What did Caesar try and do but then yelled for help?0:Nothing he is a god 1:He tried to become king 2:He tried to cross a flood by swimming 3:He's bad at swimming
+-Question:What did Caesar try and do but then yelled for help?0:Nothing he is a god 1:He tried to become king 2:He got stabbed 3:He was having trouble swimming in the storm
 -Question:What does Cassius say Caesar has become?0:God 1:A child 2:Helpless
 
 
@@ -219,7 +219,7 @@ As easily as a king.
 -Question:Is Caesar a strong swimmer?0:No 1:Yes
 
 Scene 2 Part B ####################################################################################
-Brutus
+-Brutus
 That you do love me, I am nothing jealous.
 What you would work me to, I have some aim.
 How I have thought of this, and of these times,
@@ -234,18 +234,18 @@ Brutus had rather be a villager
 Than to repute himself a son of Rome
 Under these hard conditions as this time
 Is like to lay upon us.
-Cassius
+-Cassius
                                     I am glad
 That my weak words have struck but thus much show
 Of fire from Brutus.
 [Re-enter Caesar and his train of followers.]
-Brutus
+-Brutus
 The games are done and Caesar is returning.
-Cassius
+-Cassius
 As they pass by, pluck Casca by the sleeve,
 And he will, after his sour fashion, tell you
 What hath proceeded worthy note today.
-Brutus
+-Brutus
 I will do so. But, look you, Cassius,
 The angry spot doth glow on Caesar's brow,
 And all the rest look like a chidden train.
@@ -253,21 +253,26 @@ Calpurnia's cheek is pale, and Cicero
 Looks with such ferret and such fiery eyes
 As we have seen him in the Capitol,
 Being crossed in conference by some senators.
-Cassius
+-Cassius
 Casca will tell us what the matter is.
-Caesar
+-Caesar
 Antonius!
-Antony
+-Antony
 Caesar?
-Caesar
+-Caesar
 [Privately to Antony] Let me have men about me that are fat,
 Sleek-headed men and such as sleep a-nights.
 Yon Cassius has a lean and hungry look;
 He thinks too much.  Such men are dangerous.
-Antony
+-Question:Why does Caesar think fat men aren't dangerous?0:They want to eat more 1:They are to focused on what they have 2:They want more
+-Question:What is Caesar saying they are hungry for?0:Food 1:Power 2:People
+
+-Antony
 Fear him not, Caesar, he's not dangerous;
 He is a noble Roman and well given.
-Caesar
+-Question:Who is Antony telling Caesar not to fear?0:Himself 1:The hungry people 2:Cassius
+
+-Caesar
 Would he were fatter! But I fear him not;
 Yet if my name were liable to fear,
 I do not know the man I should avoid
@@ -286,40 +291,40 @@ Than what I fear; for always I am Caesar.
 Come on my right hand, for this ear is deaf,
 And tell me truly what thou think'st of him.
 [Trumpets sound Caesar's exit. Caesar exits with all his followers except Casca.]
-Casca
+-Casca
 You pull'd me by the cloak.  Would you speak with me?
-Brutus
+-Brutus
 Ay, Casca; tell us what hath chanced today,
 That Caesar looks so sad.
-Casca
+-Casca
 Why, you were with him, were you not?
-Brutus
+-Brutus
 I should not then ask Casca what had chanced.
-Casca
+-Casca
 Why, there was a crown offered him; and being
 offered him, he put it by with the back of his hand, thus;
 and then the people fell a-shouting.
-Brutus
+-Brutus
 What was the second noise for?
-Casca
+-Casca
 Why, for that too.
-Cassius
+-Cassius
 They shouted thrice.  What was the last cry for?
-Casca
+-Casca
 Why, for that too.
-Brutus
+-Brutus
 Was the crown offered him thrice?
-Casca
+-Casca
 Ay, marry, was't, and he put it by thrice, every time
 gentler than other, and at every putting-by mine
 honest neighbors shouted.
-Cassius
+-Cassius
 Who offered him the crown?
-Casca
+-Casca
 Why, Antony.
-Brutus
+-Brutus
 Tell us the manner of it, gentle Casca.
-Casca
+-Casca
 I can as well be hanged as tell the manner of it.  It was
 mere foolery; I did not mark it. I saw Mark Antony offer
 him a crown —yet 'twas not a crown neither, 'twas one
@@ -335,25 +340,27 @@ ing breath because Caesar refused the crown that it had
 almost choked Caesar, for he swooned and fell down at it.
 And for mine own part, I durst not laugh, for fear of
 opening my lips and receiving the bad air.
-Cassius
+-Cassius
 But, soft, I pray you; what, did Caesar swoon?
-Casca
+-Casca
 He fell down in the market-place, and foamed at
 mouth, and was speechless.
-Brutus
+-Brutus
 'Tis very like; he hath the falling sickness.
-Cassius
+-Cassius
 No, Caesar hath it not; but you and I,
 And honest Casca, we have the falling sickness.
-Casca
+-Question:What is the falling sickness?0:Epilepsy 1:Broken leg 2:Always falling
+
+-Casca
 I know not what you mean by that, but I am sure
 Caesar fell down. If the tag-rag people did not clap him
 and hiss him, according as he pleased and displeased
 them, as they use to do the players in the theatre, I am
 no true man.
-Brutus
+-Brutus
 What said he when he came unto himself?
-Casca
+-Casca
 Marry, before he fell down, when he perceived the
 common herd was glad he refused the crown, he plucked,
 me, ope his doublet and offered them his throat to cut. An
@@ -366,17 +373,21 @@ wenches, where I stood, cried 'Alas, good soul!' and for-
 gave him with all their hearts.  But there's no heed to be
 taken of them; if Caesar had stabbed their mothers, they
 would have done no less.
-Brutus
+-Question:What did Caesar ask for?0:Death 1:To be killed 2:Forgivness
+
+-Brutus
 And after that he came thus sad away?
-Casca
+-Casca
 Ay.
-Cassius
+-Cassius
 Did Cicero say anything?
-Casca
+-Casca
 Ay, he spoke Greek.
-Cassius
+-Question:Why was Caesar sad?0:People had saved his life 1:He had moment of weakness infront of the crowd 2:He didn't die
+
+-Cassius
 To what effect?
-Casca
+-Casca
 Nay, an I tell you that, I’ll ne'er look you i' th’ face
 again.  But those that understood him smiled at one
 another and shook their heads; but, for mine own part, it
@@ -384,36 +395,40 @@ was Greek to me. I could tell you more news too: Marullus
 and Flavius, for pulling scarfs off Caesar's images, are
 put to silence. Fare you well. There was more foolery yet, if I
 could remember it.
-Cassius
+-Question:What does Casca mean "by put to silence"?0:Killed 1:Told to shut their mouths 2:Put in a room of silence
+
+-Cassius
 Will you sup with me tonight, Casca?
-Casca
+-Casca
 No, I am promised forth.
-Cassius
+-Cassius
 Will you dine with me tomorrow?
-Casca
+-Casca
 Ay, if I be alive, and your mind hold, and your dinner
 worth the eating.
-Cassius
+-Cassius
 Good, I will expect you.
-Casca
+-Casca
 Do so. Farewell both.
+-Question:What did Cassius ask of Casca?0:Will you dine with me? 1:He was asking what was up
+
 [Exit.]
-Brutus
+-Brutus
 What a blunt fellow is this grown to be!
 He was quick mettle when he went to school.
-Cassius
+-Cassius
 So is he now in execution
 Of any bold or noble enterprise,
 However he puts on this tardy form.
 This rudeness is a sauce to his good wit,
 Which gives men stomach to digest his words
 With better appetite.
-Brutus
+-Brutus
 And so it is. For this time I will leave you.
 Tomorrow, if you please to speak with me,
 I will come home to you; or, if you will,
 Come home to me, and I will wait for you.
-Cassius
+-Cassius
 I will do so.  Till then, think of the world.
 [Exit Brutus.]
 Well, Brutus, thou art noble, yet I see
@@ -432,3 +447,4 @@ Caesar's ambition shall be glancèd at.
 And after this let Caesar seat him sure,
 For we will shake him, or worse days endure.
 [Exit.]
+-Question:What does Cassius call Brutus when talking to him self?0:Idiot 1:Noble 2:Cute 3:strange
