@@ -7,33 +7,12 @@ def skip(ta):
         if ta == 2: boolS1=False; boolS2=False;
         exit
 
-def scene1():
+def answers(ta, correctNum, sceneNum, questinNum):
     global cool
-    while boolS1:
-        rTl("S1.txt", 0, 8 ,8)
-        ta = ITa(3)
-        if ta == 0:
-            cool["Scene 1 question 1"] = "Correct"
-        else:
-            cool["Scene 1 question 1"] = "Wrong"
-        
-        rTl("S1.txt", 9, 17, 17)
-        ta = ITa(3)
-        if ta == 2:
-            cool["Scene 1 question 2"] = "Correct"
-        else:
-            cool["Scene 1 question 2"] = "Wrong"
-        debug()
-
-
-def debug():
-    print(cool)
-    input("enter debug 050")
-
-def main():
-    scene1()
-    #scene2()
-    pass
+    if ta == correctNum:
+        cool[f"Scene {sceneNum} question {questinNum}"] = "Correct"
+    else:
+        cool[f"Scene {sceneNum} question {questinNum}"] = "Wrong"
 
 def ITa(limit):
     ta = 66
@@ -46,13 +25,32 @@ def ITa(limit):
     print("\n\n\n\n")        
     return ta
 
-def rTl(loc, start, end, qLine):
+def rTl(loc, start, end):
     with open(loc, "r") as r:
         page = r.readlines()
     for x in range(start, end):
         print(page[x])
         pass
-    print(page[qLine])
+    print(page[end])
+
+def debug():
+    print(cool)
+    input("enter debug 050")
+
+def main():
+    scene1()
+    #scene2()
+    pass
+
+def scene1():
+    while boolS1:
+        rTl("S1.txt", 0, 8 ,8)
+        answers(ITa(3), 0, 1, 1)
+        
+        rTl("S1.txt", 9, 17, 17)
+        answers(ITa(3), 2, 1, 2)
+
+
 
 if __name__=='__main__':
     global cool
