@@ -20,6 +20,7 @@ question 5:What are the men trying to do here?
 Answer: take down Caesars images and get the men off the street
 line num:102
 
+#39, 181, 182, 218, 219
 scene 2 Part A
 -question 1:
 answer:

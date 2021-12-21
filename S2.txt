@@ -1,74 +1,76 @@
 Scene 2 Part A ####################################################################################
 [Enter Caesar, Antony (dressed for the Lupercal race) Calpurnia, Portia, Decius Brutus, Cicero, Brutus, Cassius, Casca, and a Soothsayer; after them Marullus and Flavius]
-Caesar
+-Caesar
 Calpurnia!
-Casca
+-Casca
                     Peace, ho! Caesar speaks.
-Caesar
+-Caesar
                                                                  Calpurnia!
-Calpurnia
+-Calpurnia
 Here, my lord.
-Caesar
+-Caesar
 Stand you directly in Antonius' way,
 When he doth run his course. Antonius!
-Antony
+-Antony
 Caesar, my lord.
-Caesar
+-Caesar
 Forget not, in your speed, Antonius,
 To touch Calpurnia; for our elders say,
 The barren, touchèd in this holy chase,
 Shake off their sterile curse.
-Antony
+-Antony
                                                  I shall remember:
 When Caesar says 'Do this', it is performed.
-Caesar
+-Caesar
 Set on, and leave no ceremony out.
 [Trumpet flourish]
-Soothsayer
+-Soothsayer
 Caesar!
-Caesar
+-Caesar
 Ha! Who calls?
-Casca
+-Casca
 Bid every noise be still.  Peace yet again!
-Caesar
+-Caesar
 Who is it in the press that calls on me?
 I hear a tongue, shriller than all the music,
 Cry 'Caesar!' Speak. Caesar is turned to hear.
-Soothsayer
+-Soothsayer
 Beware the Ides of March.
-Caesar
+-Question:What is the Ides of March?0:The eyes of March 1:The 15th of March 2:March 12th
+
+-Caesar
                                              What man is that?
-Brutus
+-Brutus
 A soothsayer bids you beware the ides of March.
-Caesar
+-Caesar
 Set him before me. Let me see his face.
-Cassius
+-Cassius
 Fellow, come from the throng. Look upon Caesar.
-Caesar
+-Caesar
 What sayst thou to me now? Speak once again.
-Soothsayer
+-Soothsayer
 Beware the Ides of March.
-Caesar
+-Caesar
 He is a dreamer.  Let us leave him.  Pass.
 [Trumpets sound. All exit except Brutus and Cassius.]
-Cassius
+-Cassius
 Will you go see the order of the course?
-Brutus
+-Brutus
 Not I.
-Cassius
+-Cassius
 I pray you do.
-Brutus
+-Brutus
 I am not gamesome.  I do lack some part
 Of that quick spirit that is in Antony.
 Let me not hinder, Cassius, your desires.
 I'll leave you.
-Cassius
+-Cassius
 Brutus, I do observe you now of late;
 I have not from your eyes that gentleness
 And show of love as I was wont to have.
 You bear too stubborn and too strange a hand
 Over your friend that loves you.
-Brutus
+-Brutus
                                                       Cassius,
 Be not deceived.  If I have veiled my look,
 I turn the trouble of my countenance
@@ -81,15 +83,15 @@ Among which number, Cassius, be you one —
 Nor construe any further my neglect,
 Than that poor Brutus, with himself at war,
 Forgets the shows of love to other men.
-Cassius
+-Cassius
 Then, Brutus, I have much mistook your passion;
 By means whereof this breast of mine hath buried
 Thoughts of great value, worthy cogitations.
 Tell me, good Brutus, can you see your face?
-Brutus
+-Brutus
 No, Cassius; for the eye sees not itself,
 But by reflection, by some other things.
-Cassius
+-Cassius
 'Tis just;
 And it is very much lamented, Brutus,
 That you have no such mirrors as will turn
@@ -99,11 +101,11 @@ Where many of the best respect in Rome —
 Except immortal Caesar — speaking of Brutus,
 And groaning underneath this age's yoke,
 Have wished that noble Brutus had his eyes.
-Brutus
+-Brutus
 Into what dangers would you lead me, Cassius,
 That you would have me seek into myself
 For that which is not in me?
-Cassius
+-Cassius
 Therefore, good Brutus, be prepared to hear.
 And since you know you cannot see yourself
 So well as by reflection, I, your glass,
@@ -118,13 +120,13 @@ And after scandal them; or if you know
 That I profess myself in banqueting
 To all the rout; then hold me dangerous.
 [Trumpets, shouting]
-Brutus
+-Brutus
 What means this shouting? I do fear the people
 Choose Caesar for their king.
-Cassius
+-Cassius
                                                  Ay, do you fear it?
 Then must I think you would not have it so.
-Brutus
+-Brutus
 I would not, Cassius, yet I love him well.
 But wherefore do you hold me here so long?
 What is it that you would impart to me?
@@ -133,7 +135,7 @@ Set honor in one eye and death i' th’  other,
 And I will look on both indifferently.
 For let the gods so speed me, as I love
 The name of honor more than I fear death.
-Cassius
+-Cassius
 I know that virtue to be in you, Brutus,
 As well as I do know your outward favor.
 Well, honor is the subject of my story.
@@ -176,12 +178,16 @@ As a sick girl. Ye gods, it doth amaze me
 A man of such a feeble temper should
 So get the start of the majestic world
 And bear the palm alone.
+-Question:What did Caesar try and do but then yelled for help?0:Nothing he is a god 1:He tried to become king 2:He tried to cross a flood by swimming 3:He's bad at swimming
+-Question:What does Cassius say Caesar has become?0:God 1:A child 2:Helpless
+
+
 [Shouts. Trumpets sound.]
-Brutus
+-Brutus
 Another general shout!
 I do believe that these applauses are
 For some new honors that are heaped on Caesar.
-Cassius
+-Cassius
 Why, man, he doth bestride the narrow world
 Like a colossus, and we petty men
 Walk under his huge legs and peep about
@@ -209,6 +215,8 @@ O, you and I have heard our fathers say
 There was a Brutus once that would have brooked
 Th'eternal devil to keep his state in Rome
 As easily as a king.
+-Question:What is Cassius trying to convince Brutus of?0:Caesar is good 1:Caesar should be named king 2:Caesar should die 3:Caesar should be replaced by you
+-Question:Is Caesar a strong swimmer?0:No 1:Yes
 
 Scene 2 Part B ####################################################################################
 Brutus
