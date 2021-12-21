@@ -7,12 +7,15 @@ line number:8
 -question 2:What is a cobbler?
 answer:mender and maker of shoes
 line num:17
+
 question 3:Why are they out in the streets?
 answer:To celabrate Caesar
 line num:49
+
 question 4:What is Marcullus trying to say here?
 answer:he is asking why they cheer for caesar after he killed Pompey
 line num:76
+
 question 5:What are the men trying to do here?
 Answer: take down Caesars images and get the men off the street
 line num:102
